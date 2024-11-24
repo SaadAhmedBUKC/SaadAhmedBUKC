@@ -9,10 +9,9 @@ Hi, I’m Saad Ahmed, a passionate Software Engineer always open to learn new st
 **Skills**
 - Languages: Javascript, Typescript, C/C++, HTML, CSS, SQL/NoSQL
 - Database: MongoDB, PostgreSQL, SQLServer
-- Frameworks: NodeJs, ExpressJS
+- Frameworks: ReactsJS, NodeJs, ExpressJS
 - Cloud Technologies: Docker
 - Tools & Platforms: Linux, Grafana, JaegerUI, WSL, TFS, Git, VSCode
-- Projects: Check out my pinned repositories for some of my favorite projects!
 
 **Get in Touch**
 
